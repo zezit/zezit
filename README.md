@@ -1,8 +1,8 @@
 ## Hello! my name is José Victor.
 <div align="center">
   <a href="https://github.com/zezit">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zezit&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/></br>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezit&layout=demo&langs_count=100&theme=vue-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zezit&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezit&layout=compact&langs_count=100&theme=vue-dark"/>
 </div>
 <div style="display: flex"><br>
   <!--<img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
