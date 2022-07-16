@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=0:EA688D,100:74CFEE&height=150&animation=fadeIn&section=header&text=José%20Victor&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=0:EA688D,100:74CFEE&height=150&section=header&text=José%20Victor&fontSize=30&fontColor=fff&animation=blinking&fontAlignY=50">
 <div align="center">
   <a href="https://github.com/zezit">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zezit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
