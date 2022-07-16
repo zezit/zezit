@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=0:EA688D,100:74CFEE&height=150&section=header">
-<h1 align="center" style="font-size: 30px; color: #fff">José Victor</h1>
+<h1 align="center" style="font-size: 30px; color: #fff; border: none">José Victor</h1>
 <div align="center" style="display: flex; justify-content: space-between">
   <a href="https://github.com/zezit">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zezit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=EA688D&icon_color=74CFEE&text_color=fff&bg_color=0d1117"/>
