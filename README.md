@@ -5,7 +5,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezit&layout=compact&langs_count=100&hide_border=true&title_color=EA688D&icon_color=74CFEE&text_color=fff&bg_color=0d1117"/>
 </div>
   
-  <a width=60% href="https://github.com/zezit/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Zezit&bg_color=0d1117&color=74CFEE&line=EA688D&point=FFFFFF&hide_border=true" /></a>
+  <a width=100px href="https://github.com/zezit/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Zezit&bg_color=0d1117&color=74CFEE&line=EA688D&point=FFFFFF&hide_border=true" /></a>
   
 <div style="display: flex"><br>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
