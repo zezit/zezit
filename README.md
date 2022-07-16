@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=0:EA688D,100:74CFEE&height=150&section=header&text=José%20Victor&fontSize=30&fontColor=fff&animation=scaleIn&fontAlignY=50">
 <div align="center">
   <a href="https://github.com/zezit">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zezit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezit&layout=compact&langs_count=100&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zezit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezit&layout=compact&langs_count=100&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
 </div>
 <div style="display: flex"><br>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
