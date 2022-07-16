@@ -1,4 +1,3 @@
-<div background="0D1117">
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=0:EA688D,100:74CFEE&height=150&section=header">
 <h1 align="center" style="font-size: 30px; color: #fff; font-family: Copperplate, sans-serif;">JOSÉ VICTOR</h1>
 <div align="center" style="display: flex; justify-content: space-between">
@@ -30,4 +29,3 @@
   ![Snake animation](https://github.com/zezit/zezit/blob/output/github-contribution-grid-snake.svg)
   
 </div>
- </div>
