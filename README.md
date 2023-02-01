@@ -3,18 +3,16 @@
 
 <div style="font-size: 30px; color: #fff; font-family: Copperplate, sans-serif;">
   <div>
-    <h3 style="text-align: left;">Descrição (Portuguese)</h3>
-    <p style="text-align: justify;">
-      Técnico em eletrônica formado pelo CEFET-MG com foco em desenvolvimento de embarcados e atualmente graduando em Engenharia de Software na PUC-MG. Estudante de tecnologias de desenvolvimento web, incluindo CSS, HTML, Javascript e React.
-    </p>
-  </div>
-  <div>
-    <h3 style="text-align: left;">Description (English)</h3>
+    <h3 style="text-align: left;">Description</h3>
     <p style="text-align: justify;">
       Graduated Electronics Technician from CEFET-MG with a focus on embedded development and currently pursuing a degree in Software Engineering at PUC-MG. Student of web development technologies including CSS, HTML, Javascript and React.
     </p>
   </div>
 </div>
+
+## Projects
+- [**IdenTIfica**](https://github.com/zezit/idenTIfica): idenTIfica is a platform that assists in choosing IT college courses and was developed using HTML, CSS, and JavaScript in a Web Interface Development course at PUC Minas.
+- [**Digital Clock**](https://github.com/zezit/DigitalClock): A digital clock system with a timer and stopwatch was developed using C language for a concluding project in the Digital Systems III course at CEFET-MG in the electronics technical program. 
 
 
 <div align="center" style="display: flex; justify-content: space-between">
