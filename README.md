@@ -10,9 +10,19 @@
   </div>
 </div>
 
-## Projects
+## Web Applications
 - [**IdenTIfica**](https://github.com/zezit/idenTIfica): idenTIfica is a platform that assists in choosing IT college courses and was developed using HTML, CSS, and JavaScript in a Web Interface Development course at PUC Minas.
-- [**Digital Clock**](https://github.com/zezit/DigitalClock): A digital clock system with a timer and stopwatch was developed using C language for a concluding project in the Digital Systems III course at CEFET-MG in the electronics technical program. 
+
+### Scrimba - Learn React for free
+- [**Digital Business Card**](https://github.com/zezit/React1_Digital-Business-Card-): Project of a digital business card using the React framework. The goal is to create a single-page application that showcases your personal or professional information in a visually appealing and interactive way. 
+- [**Airbnb**](https://github.com/zezit/React1_Airbnb): Project of a single-page application using the React framework that showcases rental properties in a visually appealing and interactive way.
+- [**Travel Journal**](https://github.com/zezit/React1_Travel-Journal): Project of a single-page application using the React framework to create a travel journal.
+- [**Meme Generator**](https://github.com/zezit/React2_Meme-Generator): Project of a single-page application using the React framework to create a meme generator that allows users to easily create custom memes in a visually appealing and interactive way.
+- [**Tenzies Project**](https://github.com/zezit/Tenzies-Project): Final project of a single-page application using the React framework, developed as Tenzies game project, with the goal of showcasing the game in a visually appealing and interactive manner.
+
+
+## Embedded Systems
+- [**Digital Clock**](https://github.com/zezit/DigitalClock): A digital clock system with a timer and stopwatch was developed using C language for a concluding project in the Digital Systems III course at CEFET-MG in the electronics technical program.
 
 
 <div align="center" style="display: flex; justify-content: space-between">
