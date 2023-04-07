@@ -39,6 +39,7 @@
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JS" height="30" width="40" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"/>
   <img alt="React" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img alt="Vue" height="30" width="35" src="https://img.icons8.com/color/512/vue-js.png">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 </div>
