@@ -33,6 +33,9 @@
 ### Embedded Systems
 - [**Digital Clock**](https://github.com/zezit/DigitalClock): A digital clock system with a timer and stopwatch was developed using C language for a concluding project in the Digital Systems III course at CEFET-MG in the electronics technical program.
 
+## Courses
+- [**Learn React - Scrimba**](https://github.com/zezit/Scrimba---Learn-React-for-free): Free online course that teaches the basics of modern React through interactive coding challenges and building eight fun projects. It's an excellent starting point for beginners interested in web development.
+
 ## 🌐 Activity
 
 <div align="center" style="display: flex; justify-content: space-between">
