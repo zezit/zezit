@@ -2,7 +2,6 @@
 <h1 align="center" style="font-size: 30px; color: #fff; font-family: Copperplate, sans-serif;">JOSÉ VICTOR</h1>
 <div style="font-size: 30px; color: #fff; font-family: Copperplate, sans-serif;">
   <div>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=zezit&label=Views&color=blue&style=flat" alt="" /> </p>
     <h3 style="text-align: left;">🧔🏽 Description</h3>
     <p style="text-align: justify;">
       Graduated Electronics Technician from CEFET-MG with a focus on embedded development and currently pursuing a degree in Software Engineering at PUC-MG. Student of web development technologies including CSS, HTML, Javascript and React.
@@ -51,3 +50,6 @@
   <a href = "mailto:jvictormmendesd@gmail.com?subject=Olá"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josevmendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<h3 align="right"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="22px" alt="hi"> Thanks for visiting!</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zezit&label=Views&color=blue&style=flat" alt="" /> </p>
