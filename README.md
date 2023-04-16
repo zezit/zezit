@@ -4,7 +4,7 @@
   <div>
     <h3 style="text-align: left;">🧔🏽 Description</h3>
     <p style="text-align: justify;">
-      Graduated Electronics Technician from CEFET-MG with a focus on embedded development and currently pursuing a degree in Software Engineering at PUC-MG. Student of web development technologies including CSS, HTML, Javascript and React.
+      Graduated Electronics Technician from CEFET-MG with a focus on embedded development and currently pursuing a degree in Software Engineering at PUC-MG. Student of web development technologies including CSS, HTML, Javascript, ReactJS and VueJS.
     </p>
   </div>
 </div>
