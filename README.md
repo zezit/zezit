@@ -31,10 +31,7 @@
 ## 💻 Projects
 
 ### Web Applications
-- [**IdenTIfica**](https://github.com/zezit/idenTIfica): idenTIfica is a platform that assists in choosing IT college courses and was developed using HTML, CSS, and JavaScript in a Web Interface Development course at PUC Minas.
-
-### Embedded Systems
-- [**Digital Clock**](https://github.com/zezit/DigitalClock): A digital clock system with a timer and stopwatch was developed using C language for a concluding project in the Digital Systems III course at CEFET-MG in the electronics technical program.
+- [**IdenTIfica**](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-7946100-grupo-7-identifica/tree/master): idenTIfica is a platform that assists in choosing IT college courses and was developed using HTML, CSS, and JavaScript in a Web Interface Development course at PUC Minas.
 
 ## Courses
 - [**Learn React - Scrimba**](https://github.com/zezit/Scrimba---Learn-React-for-free): Free online course that teaches the basics of modern React through interactive coding challenges and building eight fun projects. It's an excellent starting point for beginners interested in web development.
@@ -46,8 +43,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zezit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=EA688D&icon_color=74CFEE&text_color=fff&bg_color=0d1117"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezit&layout=compact&langs_count=100&hide_border=true&title_color=EA688D&icon_color=74CFEE&text_color=fff&bg_color=0d1117"/>
 </div>
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zezit&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   ## 📩 Contact:
 <div> 
