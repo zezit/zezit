@@ -28,14 +28,6 @@
   ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <!-- </div> -->
 
-## 💻 Projects
-
-### Web Applications
-- [**IdenTIfica**](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-7946100-grupo-7-identifica/tree/master): idenTIfica is a platform that assists in choosing IT college courses and was developed using HTML, CSS, and JavaScript in a Web Interface Development course at PUC Minas.
-
-## Courses
-- [**Learn React - Scrimba**](https://github.com/zezit/Scrimba---Learn-React-for-free): Free online course that teaches the basics of modern React through interactive coding challenges and building eight fun projects. It's an excellent starting point for beginners interested in web development.
-
 ## 🌐 Activity
 
 <div align="center" style="display: flex; justify-content: space-between">
