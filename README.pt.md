@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/zezit/README.md" target="_blank">
+  <a href="https://github.com/zezit/zezit/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/lang-en-green.svg?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Sou+um+Desenvolvedor+Backend/Full+Stack;Engenheiro+de+Software"
       alt="Click to check english version"/>
   </a>
