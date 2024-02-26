@@ -73,6 +73,10 @@
 <a href="https://vuejs.org/" target="_blank">
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 </a>
+<!-- CYPRESS -->
+<a href="https://www.cypress.io/" target="_blank">
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-%231b1e2e.svg?style=for-the-badge&logo=cypress&logoColor=%23387565">
+</a>
 
 <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
