@@ -103,10 +103,15 @@
 <br/>
 
 ## Main Projects ⭐
-<a href="https://github.com/zezit/co_monitor_system" target="_blank">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zezit&repo=co_monitor_system&layout=compact&langs_count=100&title_color=EA688D&icon_color=74CFEE&text_color=fff&bg_color=0d1117" />
-</a> 
+<div>
+    <a href="https://github.com/zezit/co_monitor_system" target="_blank">
+        <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zezit&repo=co_monitor_system&layout=compact&langs_count=100&title_color=EA688D&icon_color=74CFEE&text_color=fff&bg_color=0d1117" style="width: 100%; height: auto;" />
+    </a> 
+    <a href="https://github.com/zezit/fisiomais" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zezit&repo=fisiomais&layout=compact&langs_count=100&title_color=EA688D&icon_color=74CFEE&text_color=fff&bg_color=0d1117" style="width: 100%; height: auto;" />
+    </a> 
+</div>
 
 <br/>
 
