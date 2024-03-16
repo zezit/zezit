@@ -11,7 +11,7 @@
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=I'm+a+Backend/FullStack+Developer;I'm+a+Software+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Software+Engineer+Student" />
   </a>
 </p>
 
