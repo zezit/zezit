@@ -25,9 +25,6 @@
    </a>
 
 - 👋 Hi, I’m José Dias
-- 👨‍💻 I'm a Backend/Full Stack Developer proficient in C, Python, Java, and Javascript.
-- 🛠️ Familiar with React, Vue.js, Nodejs, and Spring Boot.
-- 🔗 Skilled in Git and the Linux environment.
 - 📚 Quick learner of new technologies.
 - 🤝 Ready for complex challenges.
 
@@ -44,10 +41,6 @@
 <!-- C -->
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</a>
-<!-- TS -->
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
 <!-- GIT -->
 <a href="https://git-scm.com/" target="_blank">
@@ -68,10 +61,6 @@
 <!-- REACT -->
 <a href="https://reactjs.org/" target="_blank">
   <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-</a>
-<!-- VUE -->
-<a href="https://vuejs.org/" target="_blank">
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 </a>
 <!-- CYPRESS -->
 <a href="https://www.cypress.io/" target="_blank">
@@ -104,11 +93,10 @@
 
 ## Main Projects ⭐
 <a href="https://github.com/zezit/co_monitor_system" target="_blank">
-	<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zezit&repo=co_monitor_system&layout=compact&langs_count=100&title_color=EA688D&icon_color=74CFEE&text_color=fff&bg_color=0d1117" style="width: 100%; height: auto;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zezit&repo=co_monitor_system&layout=compact&langs_count=100&title_color=EA688D&icon_color=74CFEE&text_color=fff&bg_color=0d1117" />
 </a> 
 <a href="https://github.com/zezit/fisiomais" target="_blank">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zezit&repo=fisiomais&layout=compact&langs_count=100&title_color=EA688D&icon_color=74CFEE&text_color=fff&bg_color=0d1117" style="width: 100%; height: auto;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zezit&repo=fisiomais&layout=compact&langs_count=100&title_color=EA688D&icon_color=74CFEE&text_color=fff&bg_color=0d1117"/>
 </a> 
 
 <br/>
