@@ -36,6 +36,10 @@
 <a href="https://www.python.org" target="_blank">
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </a>
+<!-- FASTAPI -->
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-019486?style=for-the-badge&logo=fastapi&logoColor=fff">
+</a>
 <!-- C -->
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
